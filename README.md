@@ -1,4 +1,4 @@
-## Olá, eu sou o Gustavo Henrique!
+## Olá, eu sou o Gustavo !
 
 - 🔭 Estou procurando uma vaga para desenvolvedor web
 - 🌱 Aprendendo React.Js 
