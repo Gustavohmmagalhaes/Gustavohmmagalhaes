@@ -1,7 +1,8 @@
 ## Olá, eu sou o Gustavo !
 
 - 🔭 Estou procurando uma vaga para desenvolvedor web
-- 🌱 Aprendendo React.Js 
+- 🌱 Aprendendo React.Js
+- Email: gustavomagalhaes3234@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
